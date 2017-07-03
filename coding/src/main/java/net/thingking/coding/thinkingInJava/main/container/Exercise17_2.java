@@ -1,11 +1,11 @@
-package net.thingking.coding.thinkingInJava.main.container.exercise17_2;
+package net.thingking.coding.thinkingInJava.main.container;
 
 import net.thingking.coding.thinkingInJava.main.container.Countries;
 
 import java.util.*;
 
 public class Exercise17_2 {
-
+// placeholder class
 }
 /**
  * Created by darlynn on 4/30/17.

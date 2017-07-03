@@ -1,10 +1,13 @@
-package net.thingking.coding.codingInterview;
+package net.thingking.coding.codingInterview.main;
+
+import org.junit.Test;
 
 /**
  * Created by darlynn on 3/23/17.
  *
  * Singleton Pattern with the most common way.
  */
+
 public class Singleton {
     // private and static field
     private static Singleton instance = null;
@@ -21,6 +24,5 @@ public class Singleton {
 
     public static Singleton getInstance() {
         return LazyHolder.INSTANCE;
-        new LazyHolder();
     }
 }
